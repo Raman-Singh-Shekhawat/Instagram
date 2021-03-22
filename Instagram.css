@@ -1,0 +1,29 @@
+img{
+    width: 100px;
+}
+hr{
+    height: -500px;
+}
+nav{
+    background-color: rgb(255,255,255);
+}
+body{
+    background-color: #fafafa;
+}
+input{
+    text-align: center;
+    display: inline-block;
+    max-width: 140px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+    white-space: nowrap;
+    background-color: #fafafa;
+    border-color: #fafafa;
+    border-radius: 7%;
+    border-style: none;
+    box-sizing: content-box;
+}
+#logo:poin
+}
+
